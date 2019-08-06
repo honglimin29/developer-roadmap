@@ -1,4 +1,4 @@
-![Web开发者学习路线图](https://imgur.com/Kji0AUa)
+![Web开发者学习路线图](./images/logo.png)
 
 > Web开发者学习路线图 (2019版)
 
