@@ -15,23 +15,23 @@
 
 ## 🚀 介绍
 
-![Web Developer Roadmap Introduction](./images/intro.png)
+![Web Developer Roadmap Introduction](https://i.imgur.com/UqfhhgW.png)
 
 ## 🎨 前端学习路线图
 
 总的来讲，前端学习曲线是个先易后难的过程，其主要职能就是把网站的界面更好地呈现给用户。这就要求前端工程师涵盖的知识面非常广，既有具体的技术，又有抽象的理念，是一项特殊的工作。
 
-![Frontend Roadmap](./images/frontend.png?fix=531)
+![Frontend Roadmap](https://i.imgur.com/QIpvabx.png?fix=531)
 
 ## 👽 后端学习路线图
 
 对于后端方向，我个人更青睐于将 Node.js 和 PHP 7 作为主要技术栈。最近我还尝试了 Go 语言，很是喜欢。若要除去这些再选一门语言，我会给 Python 投上一票。不过这只是本人的一家之辞，您大可以选用图中的任意一种语言。  
 
-![Back-end Roadmap](./images/backend.png)
+![Back-end Roadmap](https://i.imgur.com/VY1ZjSG.png)
 
 ## 👷 运维开发学习路线图
 
-![DevOps Roadmap](./images/devops.png)
+![DevOps Roadmap](https://i.imgur.com/6IkMepv.png)
 
 ## 🚦 结语
 
