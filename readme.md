@@ -1,47 +1,52 @@
-![Web Developer Roadmap - 2019](https://i.imgur.com/s5cCV9q.png)
+![Web开发者学习路线图](https://imgur.com/Kji0AUa)
 
-> Roadmap to becoming a web developer in 2019
+> Web开发者学习路线图 (2019版)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+以下路线图主要展示了成为前端开发者、后端开发者或运维开发者的技术学习路线。本项目源于我为一位老教授制作的、用于跟学生们分享和交流观点的学习路线图。
 
-If you think that these can be improved in anyway, please do suggest.
-
-***
-<p align="center"><b> 🎉 We are working on a more concise version of these roadmaps 🎉 </b><br>Keep your eyes on <a href="http://roadmap.sh">roadmap.sh</a> for the details!</p>
+如果您认为本项目还有可以改进的地方，还请多多指教、献计献策。
 
 ***
+<p align="center"><b> 🎉 我们正在研究这些路线图的更简洁的版本 🎉 </b><br>关注 <a href="http://roadmap.sh">roadmap.sh</a> 了解更多细节!</p>
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+***
 
-## Introduction
+> 这些路线图的目的是让您了解全局，并指导您如果您对接下来要学习的内容感到困惑，而不是鼓励您选择时髦和时尚的东西。你应该逐渐理解为什么一种工具比另一种工具更适合某些情况，并记住时髦和时尚从来不是最适合这项工作。
+
+## 🚀 介绍
 
 ![Web Developer Roadmap Introduction](./images/intro.png)
 
-## Frontend Roadmap
+## 🎨 前端学习路线图
 
 ![Frontend Roadmap](./images/frontend.png?fix=531)
 
-## Back-end Roadmap
+## 👽 后端学习路线图
 
 ![Back-end Roadmap](./images/backend.png)
 
-## DevOps Roadmap
+## 👷 运维开发学习路线图
 
 ![DevOps Roadmap](./images/devops.png)
 
-## 🚦 Wrap Up
+## 🚦 结语
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+如果您觉得路线图存在可以改进的地方，请**修改内容**后**创建 Issue**，并**提交合并请求**(Pull Request)。与此同时，我也在持续改进本项目，因此您可能要对本仓库(Repository)进行**持续关注**(Watch)或打上**星标标记**(Star)。
 
-## 🙌 Contribution
+## ☑ 待办事项
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+- [x] 添加前端学习路线图
+- [x] 添加后端学习路线图
+- [x] 添加运维开发学习路线图
+- [ ] 添加路线图相关资源
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+## 👬 投稿/协作
+
+本项目路线图基于 [Balsamiq](https://balsamiq.com/products/mockups/) 生成，路线图文件位于 `/project-files` 目录下。若需进行修改，请运行 Balsamiq 后，点选 **Project > Import > Mockup JSON**，程序会为您载入对应的路线图数据。接下来，您应依次进行内容修正、文档上传，并更新README文件中的图片超链接等操作，最后提交合并请求(Pull Request)。	
+
+- 附上改进内容，提交合并请求(Pull Request)
+- 创建 Issue、讨论交流
  
-## License
+## 许可协议
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
